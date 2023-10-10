@@ -1,7 +1,7 @@
 //-------------------------------------------------------------
 // MAX7219DotMatrix.h - Header File
 // Library for Displaying Numbers on MAX7219 Dot Matrix Display
-// by: Anas Kuzechie (May 15, 2022)
+// by:Abhishek Sebastian ( 10/10/2023)
 //-------------------------------------------------------------
 //header guards
 #ifndef MAX7219DotMatrix_h
